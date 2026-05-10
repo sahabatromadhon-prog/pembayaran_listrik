@@ -15,8 +15,8 @@
 						<h3>Maaf Halaman Tidak Ada :(</h3>
 					</div>
 					<div class="panel-footer">
-						<center>&copy;2023 - Desna Andri</center>
-						<br><center><p>Repost by <a href='https://www.bsi.ac.id/ubsi/index.js' title='StokCoding.com' target='_blank'>UBSI</a></p></center>
+						<center>&copy;2026 - ROMADHON</center>
+						<br><center><p></a></p></center>
 						
 					</div>
 				</div>
